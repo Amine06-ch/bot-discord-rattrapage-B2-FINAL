@@ -1,0 +1,5 @@
+
+.env             # Le fichier qui contient votre Token Discord
+bot_data.json    # Le fichier de sauvegarde persistante (données temporaires)
+__pycache__/
+*.pyc
